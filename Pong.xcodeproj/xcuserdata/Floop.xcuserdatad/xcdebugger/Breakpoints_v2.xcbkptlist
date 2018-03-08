@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pong/GameScene.swift"
+            timestampString = "542173417.942245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.__deallocating_deinit"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.957878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.__allocating_init(size: __C.CGSize) -&gt; Pong.GameScene"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.961069"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.init(size: __C.CGSize) -&gt; Pong.GameScene"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.962956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.__allocating_init() -&gt; Pong.GameScene"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.964506"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.init() -&gt; Pong.GameScene"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.965953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pong.GameScene&gt;"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.967378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pong.GameScene.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pong.GameScene&gt;"
+                  moduleName = "Pong"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Floop/Desktop/bouncy%20ball/Pong/GameScene.swift"
+                  timestampString = "532382463.968768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
